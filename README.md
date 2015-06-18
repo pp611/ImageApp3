@@ -1,2 +1,1 @@
-# ImageApp3
-# ImageApp3
+# ImageApp3: A testing app using Ionic camera plugin
